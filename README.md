@@ -1,5 +1,5 @@
-# bhex-token price gnome ticket 
+# fnb-protocol price gnome ticket 
 
-Gnome 3 desktop ticker for bhex-token price with Python and argos. Rename to bhex-token.1r.60s.py and put in ~/.config/argos
+Gnome 3 desktop ticker for fnb-protocol price with Python and argos. Rename to fnb-protocol.1r.60s.py and put in ~/.config/argos
 
 https://pythonbasics.org
