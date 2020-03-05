@@ -1,5 +1,8 @@
-# vestchain price gnome ticket 
+# vestchain gnome price ticker
 
-Gnome 3 desktop ticker for vestchain price with Python and argos. Rename to vestchain.1r.60s.py and put in ~/.config/argos
+Get vestchain price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/vestchain-price-gnome-ticket/](https://codesharedot.github.io/vestchain-price-gnome-ticket/)
 
-https://pythonbasics.org
+vestchain price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to vestchain.1r60s.py and put in ~/.config/argos
